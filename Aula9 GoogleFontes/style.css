@@ -1,0 +1,24 @@
+body {
+    background: #dfdfdf ; 
+    font-family: Arial, Helvetica, 'Courier New', Courier, monospace sans-serif;
+}
+
+.foto-principal {
+    width: 200px ;
+    border: 2px solid #f7f6f6 ; /* shorthand*/
+    border-radius: 50%;
+    margin: 30px;
+    box-shadow: 2px 2px 2px  black;
+       
+}
+h1 {
+    margin-bottom: 0%;
+
+}
+
+h2 {
+    margin-top: 0% ;
+    font-style: italic; 
+    color: rgb(185, 156, 156);
+    font-weight: 100;
+}
